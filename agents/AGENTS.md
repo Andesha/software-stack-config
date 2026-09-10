@@ -6,6 +6,14 @@ Do not improvise outside the practices described in the Alliance documentation. 
 
 Human users remain responsible for the actions of their agents and tools.
 
+## Documentation
+
+A read only copy of the Alliance wiki in markdown can be referenced at the following path:
+
+`/cvmfs/soft.computecanada.ca/custom/docs/`.
+
+It contains both an English and Fresh version.
+
 ## Keep login-node work lightweight
 
 The current working directory may be on a shared login node. On login nodes, limit work to lightweight operations such as editing files, reading code, small Git operations, and short commands. Resource limits are enforced with cgroups.
