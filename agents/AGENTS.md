@@ -12,7 +12,7 @@ A read only copy of the Alliance wiki in markdown can be referenced at the follo
 
 `/cvmfs/soft.computecanada.ca/custom/docs/`.
 
-It contains both an English and Fresh version.
+It contains both an English and French version.
 
 ## Keep login-node work lightweight
 
